@@ -1,4 +1,4 @@
-import psutil
+# import psutil
 
 #-------------- first python script -----------
 # name = input("Enter your name : ")
@@ -27,28 +27,42 @@ import psutil
 # - Compares metrics against thresholds
 # - Prints the result to the **terminal**
 
-cpu = int(input("Enter the cpu threshold : "))
-disk = int(input("Enter the disk threshold : "))
-memory = int(input("Enter the memory threshold : "))
+# cpu = int(input("Enter the cpu threshold : "))
+# disk = int(input("Enter the disk threshold : "))
+# memory = int(input("Enter the memory threshold : "))
 
-def compare_user_system(cpu, disk, memory):
-        if cpu > psutil.cpu_percent():
-            print(f"cpu is not overloaded : {psutil.cpu_percent()}")
-        else:
-            print(f"cpu is overloaded  : {psutil.cpu_percent()} ")
+# def compare_user_system(cpu, disk, memory):
+#         if cpu > psutil.cpu_percent():
+#             print(f"cpu is not overloaded : {psutil.cpu_percent()}")
+#         else:
+#             print(f"cpu is overloaded  : {psutil.cpu_percent()} ")
             
             
-        if disk > psutil.disk_usage('/').percent:
-            print(f"disk is not overloaded : {psutil.disk_usage('/').percent}")
-        else: 
-            print(f"disk is overloaded : {psutil.disk_usage('/').percent}")
+#         if disk > psutil.disk_usage('/').percent:
+#             print(f"disk is not overloaded : {psutil.disk_usage('/').percent}")
+#         else: 
+#             print(f"disk is overloaded : {psutil.disk_usage('/').percent}")
             
-        if memory > psutil.virtual_memory().percent:
-            print(f"memory is not overloaded : {psutil.virtual_memory().percent}")
-        else: 
-            print(f"memory is overloaded : {psutil.virtual_memory().percent}")
+#         if memory > psutil.virtual_memory().percent:
+#             print(f"memory is not overloaded : {psutil.virtual_memory().percent}")
+#         else: 
+#             print(f"memory is overloaded : {psutil.virtual_memory().percent}")
     
-compare_user_system(cpu, disk, memory)
+# compare_user_system(cpu, disk, memory)
 
+
+# tea_varities = ["Black","Green","olong"]
+# y = ",".join(tea_varities)
+
+# print(y)
+# print(type(y))
+
+
+my_list = [1,2,3,4,5,6,7,8,9,10]
+
+
+my_list.insert(1,5)
+
+print(my_list)
 
     
