@@ -1,68 +1,33 @@
-# import psutil
+import psutil
 
-#-------------- first python script -----------
-# name = input("Enter your name : ")
-# marks = int(input("Enter your marks : "))
+def get_cpu_usage():
+    cpu_threshold = float(input("Enter CPU usage threshold (%): "))
+    memory_threshold = float(input("Enter Memory usage threshold (%): "))
+    disk_threshold = float(input("Enter Disk usage threshold (%): "))
 
-# while  marks <= 100 :
-#     if marks >= 90 :
-#         print(f"{name} is Got Grade A")
-#         break
-#     elif marks >= 80 :
-#         print(f"{name} is Got Grade B")
-#         break
-#     elif marks >= 70 :
-#         print(f"{name} is Got Grade C")
-#         break
-#     elif marks >= 60  :
-#         print(f"{name} is Got Grade D")
-#     else :
-#         print("Participate in the exam again ")
-        
-
-
-# You will create a Python script that:
-# - Takes threshold values (CPU, disk, memory) from **user input**
-# - Also fetches system metrics using a Python library (example: `psutil`)
-# - Compares metrics against thresholds
-# - Prints the result to the **terminal**
-
-# cpu = int(input("Enter the cpu threshold : "))
-# disk = int(input("Enter the disk threshold : "))
-# memory = int(input("Enter the memory threshold : "))
-
-# def compare_user_system(cpu, disk, memory):
-#         if cpu > psutil.cpu_percent():
-#             print(f"cpu is not overloaded : {psutil.cpu_percent()}")
-#         else:
-#             print(f"cpu is overloaded  : {psutil.cpu_percent()} ")
-            
-            
-#         if disk > psutil.disk_usage('/').percent:
-#             print(f"disk is not overloaded : {psutil.disk_usage('/').percent}")
-#         else: 
-#             print(f"disk is overloaded : {psutil.disk_usage('/').percent}")
-            
-#         if memory > psutil.virtual_memory().percent:
-#             print(f"memory is not overloaded : {psutil.virtual_memory().percent}")
-#         else: 
-#             print(f"memory is overloaded : {psutil.virtual_memory().percent}")
+    cpu_use = psutil.cpu_percent(interval=1)
+    memory_use = psutil.virtual_memory().percent
+    disk_use = psutil.disk_usage('/').percent
     
-# compare_user_system(cpu, disk, memory)
+    # compare CPU 
 
+    if cpu_use > cpu_threshold:
+        print(f"⚠️ CPU usage is above threshold! Current usage: {cpu_use}% user Input threshold: {cpu_threshold}%")
+    else:
+        print(f"✅ CPU usage is within acceptable limits. Current usage: {cpu_use}% user Input threshold: {cpu_threshold}%")
 
-# tea_varities = ["Black","Green","olong"]
-# y = ",".join(tea_varities)
+    # compare Memory
 
-# print(y)
-# print(type(y))
+    if memory_use > memory_threshold:
+        print(f"⚠️ Memory usage is above threshold! Current usage: {memory_use}% user Input threshold: {memory_threshold}%")
+    else:
+        print(f"✅ Memory usage is within acceptable limits. Current usage: {memory_use}% user Input threshold: {memory_threshold}%")
 
+    # compare Disk
 
-my_list = [1,2,3,4,5,6,7,8,9,10]
+    if disk_use > disk_threshold:
+        print(f"⚠️ Disk usage is above threshold! Current usage: {disk_use}% user Input threshold: {disk_threshold}%")
+    else:
+        print(f"✅ Disk usage is within acceptable limits. Current usage: {disk_use}% user Input threshold: {disk_threshold}%")
 
-
-my_list.insert(1,5)
-
-print(my_list)
-
-    
+get_cpu_usage()
