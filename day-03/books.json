@@ -1,0 +1,667 @@
+[
+    {
+        "kind": "books#volume",
+        "id": 105,
+        "etag": "1CqgTPbHJ3Q",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/GR7dDwAAQBAJ",
+        "volumeInfo": {
+            "title": "Choice Hacking",
+            "subtitle": "How to use psychology and behavioral science to create an experience that sings",
+            "authors": [
+                "Jennifer L. Clinehens"
+            ],
+            "publisher": "Jennifer L. Clinehens",
+            "publishedDate": "2020-06-16",
+            "description": "What if you could use Nobel prize-winning science to predict the choices your customers will make? Customer and user behaviors can seem irrational. Shaped by mental shortcuts and psychological biases, their actions often appear random on the surface. In Choice Hacking, we'll learn to predict these irrational behaviors and apply the science of decision-making to create unforgettable customer experiences. Discover a framework for designing experiences that doesn't just show you what principles to apply, but introduces a new way of thinking about customer behavior. You'll finish Choice Hacking feeling confident and ready to transform your experience with science. In Choice Hacking, you'll discover: - How to make sure your customer experience is designed for what people do (not what they say they'll do) - How to increase the odds that customers will make the \"right choice\" in any environment - How to design user experiences that drive action and engagement - How to create retail experiences that persuade and drive brand love - How brands like Uber, Netflix, Disney, and Starbucks apply these principles in their customer and user experiences Additional resources included with the book: - Access to free video Companion Course - Access to exclusive free resources, tools, examples, and use cases online Who will benefit from reading Choice Hacking? This book was written for anyone who wants to better understand customer and user decision-making. Whether you're a consultant, strategist, digital marketer, small business owner, writer, user experience designer, student, manager, or organizational leader, you will find immediate value in Choice Hacking. About the Author Jennifer Clinehens is currently Head of Experience at a major global experience agency. She holds a Master's degree in Brand Management as well as an MBA from Emory University's Goizueta School. Ms. Clinehens has client-side and consulting experience working for brands like AT&T, McDonald's, and Adidas, and she's helped shape customer experiences across the globe. A recognized authority in marketing and customer experience, she is also the author of CX That Sings: An Introduction To Customer Journey Mapping. To learn more about this book or contact the author, please visit ChoiceHacking.com",
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 262,
+            "printType": "BOOK",
+            "categories": [
+                "Business & Economics"
+            ],
+            "averageRating": 2,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.5.4.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=GR7dDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=GR7dDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=GR7dDwAAQBAJ&pg=PT222&dq=uber&hl=&cd=5&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=GR7dDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GR7dDwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 483,
+                "currencyCode": "INR"
+            },
+            "retailPrice": {
+                "amount": 338.1,
+                "currencyCode": "INR"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=GR7dDwAAQBAJ&rdid=book-GR7dDwAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 483000000,
+                        "currencyCode": "INR"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 338100000,
+                        "currencyCode": "INR"
+                    }
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.co.in/books/download/Choice_Hacking-sample-epub.acsm?id=GR7dDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.co.in/books/download/Choice_Hacking-sample-pdf.acsm?id=GR7dDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=GR7dDwAAQBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "\u201c<b>Uber</b> to Ban Riders with Low Ratings: Will You Pass the Test?\u201d The Guardian, Guardian News and Media, 1 June 2019, www.theguardian.com/technology/2019/may/31/<b>uber</b>-to-ban-riderswith-low-ratings. 6 \u201cHow Is My Rating Determined?"
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": 115,
+        "etag": "kkclnTAQ/m4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/LD1qDwAAQBAJ",
+        "volumeInfo": {
+            "title": "The Science of Marvel",
+            "subtitle": "From Infinity Stones to Iron Man's Armor, the Real Science Behind the MCU Revealed!",
+            "authors": [
+                "Sebastian Alvarado"
+            ],
+            "publisher": "Simon and Schuster",
+            "publishedDate": "2019-04-09",
+            "description": "Science meets fantasy in this behind-the-scenes look at the Marvel Cinematic Universe\u2014now you can experience the magic of the movies, and learn how to replicate it in real-life. The Marvel Cinematic Universe is filled with extraordinary humans and abilities. There are teenaged geniuses swinging through the streets of New York, billionaires creating impenetrable armor in hidden caves, and aliens flying through wormholes to Earth. All of these characters seem to lie firmly in the realm of fantasy\u2014but the technology behind them might not be as farfetched as you think\u2026 The Science of Marvel pulls back the curtain and reveals the secrets behind Marvel movie magic, and shows us how to recreate these comic book wonders in our everyday life. Using quantum physics, a little bit of mechanical engineering, and some out-of-the-box thinking, you\u2019ll be amazed to discover that it\u2019s possible to create a real-life Captain America, Incredible Hulk, or Black Panther. The perfect gift or collectible for Marvel fans everywhere, The Science of Marvel brings beloved movies and characters to life like never before.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9781507209998"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "1507209991"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": false
+            },
+            "pageCount": 240,
+            "printType": "BOOK",
+            "categories": [
+                "Science"
+            ],
+            "averageRating": 4,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.1.1.0.preview.2",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=LD1qDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=LD1qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=LD1qDwAAQBAJ&printsec=frontcover&dq=marvel&hl=&cd=5&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=LD1qDwAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LD1qDwAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 874.38,
+                "currencyCode": "INR"
+            },
+            "retailPrice": {
+                "amount": 437.19,
+                "currencyCode": "INR"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=LD1qDwAAQBAJ&rdid=book-LD1qDwAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 874380000,
+                        "currencyCode": "INR"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 437190000,
+                        "currencyCode": "INR"
+                    }
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.co.in/books/download/The_Science_of_Marvel-sample-epub.acsm?id=LD1qDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=LD1qDwAAQBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "All of these characters seem to lie firmly in the realm of fantasy\u2014but the technology behind them might not be as farfetched as you think\u2026 The Science of Marvel pulls back the curtain and reveals the secrets behind Marvel movie magic, ..."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": 121,
+        "etag": "6I09b9J4gz8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/HegDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Competition Science Vision",
+            "publishedDate": "1999-06",
+            "description": "Competition Science Vision (monthly magazine) is published by Pratiyogita Darpan Group in India and is one of the best Science monthly magazines available for medical entrance examination students in India. Well-qualified professionals of Physics, Chemistry, Zoology and Botany make contributions to this magazine and craft it with focus on providing complete and to-the-point study material for aspiring candidates. The magazine covers General Knowledge, Science and Technology news, Interviews of toppers of examinations, study material of Physics, Chemistry, Zoology and Botany with model papers, reasoning test questions, facts, quiz contest, general awareness and mental ability test in every monthly issue.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 154,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=HegDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=HegDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=HegDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=HegDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Competition_Science_Vision.html?hl=&id=HegDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=HegDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Competition Science Vision (monthly magazine) is published by Pratiyogita Darpan Group in India and is one of the best Science monthly magazines available for medical entrance examination students in India."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": 122,
+        "etag": "LiDPZsIjuKQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ZsYZa8MYtTsC",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1973-06",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 172,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=ZsYZa8MYtTsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=ZsYZa8MYtTsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=ZsYZa8MYtTsC&printsec=frontcover&dq=science&hl=&cd=2&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=ZsYZa8MYtTsC&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=ZsYZa8MYtTsC"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=ZsYZa8MYtTsC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": 123,
+        "etag": "R22+F8XFB/g",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/FJKbBgAAQBAJ",
+        "volumeInfo": {
+            "title": "The Science Book",
+            "subtitle": "Big Ideas Simply Explained",
+            "authors": [
+                "DK"
+            ],
+            "publisher": "Dorling Kindersley Ltd",
+            "publishedDate": "2015-02-02",
+            "description": "Did the Universe start with a Big Bang? Is light a wave, a particle - or both? Are we the cause of global warming? Science has made it possible to comprehend the world we live in and the theoretical multiverses beyond, offering technological advances and extending the frontiers of knowledge. Written in plain English, The Science Book presents 80 of the most trailblazing ideas in physics, chemistry, and biology. It is packed with short, pithy explanations that cut through the jargon, step-by-step diagrams that untangle knotty theories, classic quotes that make scientific discoveries memorable, and witty illustrations that enhance and play with our understanding of science. Whatever your grasp of the subject, whether you're a keen student or an armchair expert, you'll find plenty to stimulate you within this book. Part of the popular \"Big Ideas\" series, The Science Book is the perfect way to explore this fascinating subject.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780241202364"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0241202361"
+                }
+            ],
+            "readingModes": {
+                "text": true,
+                "image": true
+            },
+            "pageCount": 710,
+            "printType": "BOOK",
+            "categories": [
+                "Science"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "1.6.6.0.preview.3",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=FJKbBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=FJKbBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=FJKbBgAAQBAJ&pg=PP1&dq=science&hl=&cd=3&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=FJKbBgAAQBAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FJKbBgAAQBAJ"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "FOR_SALE",
+            "isEbook": true,
+            "listPrice": {
+                "amount": 2057.12,
+                "currencyCode": "INR"
+            },
+            "retailPrice": {
+                "amount": 2057.12,
+                "currencyCode": "INR"
+            },
+            "buyLink": "https://play.google.com/store/books/details?id=FJKbBgAAQBAJ&rdid=book-FJKbBgAAQBAJ&rdot=1&source=gbs_api",
+            "offers": [
+                {
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 2057120000,
+                        "currencyCode": "INR"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 2057120000,
+                        "currencyCode": "INR"
+                    }
+                }
+            ]
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.co.in/books/download/The_Science_Book-sample-epub.acsm?id=FJKbBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+                "isAvailable": true,
+                "acsTokenLink": "http://books.google.co.in/books/download/The_Science_Book-sample-pdf.acsm?id=FJKbBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=FJKbBgAAQBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Written in plain English, The Science Book presents 80 of the most trailblazing ideas in physics, chemistry, and biology."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": 124,
+        "etag": "woKzS/EFlrY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/K-gDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Competition Science Vision",
+            "publishedDate": "1999-12",
+            "description": "Competition Science Vision (monthly magazine) is published by Pratiyogita Darpan Group in India and is one of the best Science monthly magazines available for medical entrance examination students in India. Well-qualified professionals of Physics, Chemistry, Zoology and Botany make contributions to this magazine and craft it with focus on providing complete and to-the-point study material for aspiring candidates. The magazine covers General Knowledge, Science and Technology news, Interviews of toppers of examinations, study material of Physics, Chemistry, Zoology and Botany with model papers, reasoning test questions, facts, quiz contest, general awareness and mental ability test in every monthly issue.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 136,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=K-gDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=K-gDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=K-gDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=4&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=K-gDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Competition_Science_Vision.html?hl=&id=K-gDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=K-gDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Competition Science Vision (monthly magazine) is published by Pratiyogita Darpan Group in India and is one of the best Science monthly magazines available for medical entrance examination students in India."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": 125,
+        "etag": "kCQ4o8k0ing",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/jAAAAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1978-06",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 198,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=jAAAAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=jAAAAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=jAAAAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=5&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=jAAAAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=jAAAAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=jAAAAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": 126,
+        "etag": "+z9I10+0MUM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/LugDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Competition Science Vision",
+            "publishedDate": "1998-07",
+            "description": "Competition Science Vision (monthly magazine) is published by Pratiyogita Darpan Group in India and is one of the best Science monthly magazines available for medical entrance examination students in India. Well-qualified professionals of Physics, Chemistry, Zoology and Botany make contributions to this magazine and craft it with focus on providing complete and to-the-point study material for aspiring candidates. The magazine covers General Knowledge, Science and Technology news, Interviews of toppers of examinations, study material of Physics, Chemistry, Zoology and Botany with model papers, reasoning test questions, facts, quiz contest, general awareness and mental ability test in every monthly issue.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 152,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=LugDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=LugDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=LugDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=6&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=LugDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Competition_Science_Vision.html?hl=&id=LugDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=LugDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Competition Science Vision (monthly magazine) is published by Pratiyogita Darpan Group in India and is one of the best Science monthly magazines available for medical entrance examination students in India."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": 127,
+        "etag": "BcPfpBJie90",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/zOcDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Competition Science Vision",
+            "publishedDate": "1998-05",
+            "description": "Competition Science Vision (monthly magazine) is published by Pratiyogita Darpan Group in India and is one of the best Science monthly magazines available for medical entrance examination students in India. Well-qualified professionals of Physics, Chemistry, Zoology and Botany make contributions to this magazine and craft it with focus on providing complete and to-the-point study material for aspiring candidates. The magazine covers General Knowledge, Science and Technology news, Interviews of toppers of examinations, study material of Physics, Chemistry, Zoology and Botany with model papers, reasoning test questions, facts, quiz contest, general awareness and mental ability test in every monthly issue.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 152,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=zOcDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=zOcDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=zOcDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=7&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=zOcDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Competition_Science_Vision.html?hl=&id=zOcDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=zOcDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Competition Science Vision (monthly magazine) is published by Pratiyogita Darpan Group in India and is one of the best Science monthly magazines available for medical entrance examination students in India."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": 128,
+        "etag": "fNLETlTRG8w",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/iiQDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1879-06",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 144,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=iiQDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=iiQDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.in/books?id=iiQDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=8&source=gbs_api",
+            "infoLink": "http://books.google.co.in/books?id=iiQDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=iiQDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "IN",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "IN",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=iiQDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    }
+]
